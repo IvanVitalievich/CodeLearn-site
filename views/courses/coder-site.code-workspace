@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "CodeLearn-1",
+			"path": "../../CodeLearn-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coder-site"
+	}
+}
